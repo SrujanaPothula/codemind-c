@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int a,b,c;
+    int a,b,multiplication;
     scanf("%d%d",&a,&b);
-    c=a*b;
-    printf("%d",c);
+    multiplication=a*b;
+    printf("%d",multiplication);
 }
