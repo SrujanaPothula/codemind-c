@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int a,b,modulus;
+    int a,b,s;
     scanf("%d%d",&a,&b);
-    modulus=a%b;
-    printf("%d",modulus);
+    s=a%b;
+    printf("%d",s);
 }
