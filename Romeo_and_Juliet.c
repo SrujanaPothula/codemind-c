@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int x,y,z,chocolates;
+    int x,y,z,c;
     scanf("%d%d%d",&x,&y,&z);
-    chocolates=(5*x+10*y)/z;
-    printf("%d",chocolates);
+    c=(5*x+10*y)/z;
+    printf("%d",c);
+    
 }
